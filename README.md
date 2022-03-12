@@ -13,9 +13,9 @@ A curated list of all awesome pygames created by Agneay B Nair
 1. Space Invaders
 
 <div>
-  <img src="https://github.com/agneay/pygame-projects/blob/master/imgs/spaceship/during.png" width=900 height=900>
+  <img src="https://github.com/agneay/pygame-projects/blob/master/imgs/spaceship/during.png">
   <br>
   <br>
   <br>
-  <img src="https://github.com/agneay/pygame-projects/blob/master/imgs/spaceship/game-over.png" width=900 height=900>
+  <img src="https://github.com/agneay/pygame-projects/blob/master/imgs/spaceship/game-over.png">
 </div>
