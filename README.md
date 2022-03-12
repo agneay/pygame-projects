@@ -7,3 +7,12 @@ A curated list of all awesome pygames created by Agneay B Nair
 ![license](https://img.shields.io/github/license/agneay/pygame-projects?style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/agneay/pygame-projects?style=for-the-badge)
 ![issues](https://img.shields.io/github/issues/agneay/pygame-projects?style=for-the-badge)
+
+## Previews of game available
+
+1. Space Invaders
+
+<div>
+<img alt=""going" src="img/going.png" align="left">
+<img alt="game over" src="img/game-over.png" align="right">
+</div>
