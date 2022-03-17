@@ -1,8 +1,11 @@
 import pygame
+
 import random
 import time
+import sys
 
-pygame.init()
+if __name__ == "__main__":
+    pygame.init()
 
 color = (16, 176, 59)
 is_run = True
@@ -21,10 +24,18 @@ pygame.display.set_icon(icon)
 def apple_origin(x,y):
     screen.blit(apple,(x,y))
 
+def kill_game():
+    is_run = False
+    sys.exit()
+    pygame.quit()
+
 while is_run:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            is_run = False
+            kill_game()
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_ESCAPE or pygame.K_q:
+                kill_game()
 
     screen.fill(color)
     screen.blit(backgruond,(0,0))
