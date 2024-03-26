@@ -1,4 +1,4 @@
-# Pygame Projects [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+# Pygame Projects [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 A curated list of all awesome pygames created by Agneay B Nair
 
 ![maintained](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
